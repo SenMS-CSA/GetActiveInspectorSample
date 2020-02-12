@@ -1,0 +1,40 @@
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\GetActiveInspectorSample.dll
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\GetActiveInspectorSample.pdb
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\GetActiveInspectorSample.dll.manifest
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\GetActiveInspectorSample.vsto
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.dll
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.Outlook.xml
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\obj\Debug\GetActiveInspectorSample.csprojResolveAssemblyReference.cache
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\obj\Debug\GetActiveInspectorSample.Properties.Resources.resources
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\obj\Debug\GetActiveInspectorSample.csproj.GenerateResource.Cache
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\obj\Debug\GetActiveInspectorSample.dll
+C:\MSDE\reiddav\stash\getactiveinspector\src\GetActiveInspectorSample\obj\Debug\GetActiveInspectorSample.pdb
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\GetActiveInspectorSample.dll
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\GetActiveInspectorSample.pdb
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\GetActiveInspectorSample.dll.manifest
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\GetActiveInspectorSample.vsto
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\obj\Debug\GetActiveInspectorSample.csprojAssemblyReference.cache
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\obj\Debug\GetActiveInspectorSample.Properties.Resources.resources
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\obj\Debug\GetActiveInspectorSample.csproj.GenerateResource.cache
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\obj\Debug\GetActiveInspectorSample.csproj.CoreCompileInputs.cache
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\obj\Debug\GetActiveInspectorSample.csproj.CopyComplete
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\obj\Debug\GetActiveInspectorSample.dll
+C:\Users\nagome\OneDrive - Microsoft\cases\17030678\getactiveinspector-sample\getactiveinspector\src\GetActiveInspectorSample\obj\Debug\GetActiveInspectorSample.pdb
