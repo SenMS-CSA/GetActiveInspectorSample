@@ -24,7 +24,7 @@ namespace GetActiveInspectorSample
         {
             _activeInspectorButton = new ActiveInspectorButton();
 
-            return _activeInspectorButton;
+            return _activeInspectorButton; 
         }
 
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
