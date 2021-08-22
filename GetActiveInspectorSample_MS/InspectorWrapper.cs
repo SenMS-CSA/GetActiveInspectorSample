@@ -3,7 +3,7 @@ using Office = Microsoft.Office.Core;
 using System.Reflection;
 using Microsoft.Office.Interop.Outlook;
 using Exception = System.Exception;
-using Outlook = Microsoft.Office.Interop.Outlook;
+using Outlook = Microsoft.Office.Interop.Outlook; 
 
 namespace GetActiveInspectorSample
 {
