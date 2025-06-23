@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{315EA410-2EED-4729-A898-55F4AF09C224}|GetActiveInspectorSample_MS\\GetActiveInspectorSample_MS.csproj|c:\\users\\v-svaduganat\\downloads\\getactiveinspectorsample\\getactiveinspectorsample_ms\\appointmentitemwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315EA410-2EED-4729-A898-55F4AF09C224}|GetActiveInspectorSample_MS\\GetActiveInspectorSample_MS.csproj|solutionrelative:getactiveinspectorsample_ms\\appointmentitemwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315EA410-2EED-4729-A898-55F4AF09C224}|GetActiveInspectorSample_MS\\GetActiveInspectorSample_MS.csproj|C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\getactiveinspectorsample_ms\\inspectorwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315EA410-2EED-4729-A898-55F4AF09C224}|GetActiveInspectorSample_MS\\GetActiveInspectorSample_MS.csproj|solutionrelative:getactiveinspectorsample_ms\\inspectorwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315EA410-2EED-4729-A898-55F4AF09C224}|GetActiveInspectorSample_MS\\GetActiveInspectorSample_MS.csproj|C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\getactiveinspectorsample_ms\\mailitemwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315EA410-2EED-4729-A898-55F4AF09C224}|GetActiveInspectorSample_MS\\GetActiveInspectorSample_MS.csproj|solutionrelative:getactiveinspectorsample_ms\\mailitemwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315EA410-2EED-4729-A898-55F4AF09C224}|GetActiveInspectorSample_MS\\GetActiveInspectorSample_MS.csproj|C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\getactiveinspectorsample_ms\\winformwithwebviewuc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315EA410-2EED-4729-A898-55F4AF09C224}|GetActiveInspectorSample_MS\\GetActiveInspectorSample_MS.csproj|solutionrelative:getactiveinspectorsample_ms\\winformwithwebviewuc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315EA410-2EED-4729-A898-55F4AF09C224}|GetActiveInspectorSample_MS\\GetActiveInspectorSample_MS.csproj|C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\getactiveinspectorsample_ms\\activeinspectorbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315EA410-2EED-4729-A898-55F4AF09C224}|GetActiveInspectorSample_MS\\GetActiveInspectorSample_MS.csproj|solutionrelative:getactiveinspectorsample_ms\\activeinspectorbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentItemWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\GetActiveInspectorSample_MS\\AppointmentItemWrapper.cs",
+              "RelativeDocumentMoniker": "GetActiveInspectorSample_MS\\AppointmentItemWrapper.cs",
+              "ToolTip": "C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\GetActiveInspectorSample_MS\\AppointmentItemWrapper.cs",
+              "RelativeToolTip": "GetActiveInspectorSample_MS\\AppointmentItemWrapper.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:29:13.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WinFormWithWebViewUC.designer.cs",
+              "DocumentMoniker": "C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\GetActiveInspectorSample_MS\\WinFormWithWebViewUC.designer.cs",
+              "RelativeDocumentMoniker": "GetActiveInspectorSample_MS\\WinFormWithWebViewUC.designer.cs",
+              "ToolTip": "C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\GetActiveInspectorSample_MS\\WinFormWithWebViewUC.designer.cs",
+              "RelativeToolTip": "GetActiveInspectorSample_MS\\WinFormWithWebViewUC.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:32:38.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InspectorWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\GetActiveInspectorSample_MS\\InspectorWrapper.cs",
+              "RelativeDocumentMoniker": "GetActiveInspectorSample_MS\\InspectorWrapper.cs",
+              "ToolTip": "C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\GetActiveInspectorSample_MS\\InspectorWrapper.cs",
+              "RelativeToolTip": "GetActiveInspectorSample_MS\\InspectorWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:32:04.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActiveInspectorButton.cs",
+              "DocumentMoniker": "C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\GetActiveInspectorSample_MS\\ActiveInspectorButton.cs",
+              "RelativeDocumentMoniker": "GetActiveInspectorSample_MS\\ActiveInspectorButton.cs",
+              "ToolTip": "C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\GetActiveInspectorSample_MS\\ActiveInspectorButton.cs",
+              "RelativeToolTip": "GetActiveInspectorSample_MS\\ActiveInspectorButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:29:05.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MailItemWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\GetActiveInspectorSample_MS\\MailItemWrapper.cs",
+              "RelativeDocumentMoniker": "GetActiveInspectorSample_MS\\MailItemWrapper.cs",
+              "ToolTip": "C:\\Users\\v-svaduganat\\Downloads\\getactiveinspectorsample\\GetActiveInspectorSample_MS\\MailItemWrapper.cs",
+              "RelativeToolTip": "GetActiveInspectorSample_MS\\MailItemWrapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:28:56.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

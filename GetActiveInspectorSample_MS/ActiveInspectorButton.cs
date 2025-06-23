@@ -101,16 +101,17 @@ namespace GetActiveInspectorSample
             if (inspector == null)
                 return false;
 
-            if (inspector != null && inspector.CurrentItem != null)
-            {
-                Outlook.AppointmentItem apt = inspector.CurrentItem as Outlook.AppointmentItem;
-                if (apt != null)
-                    System.Windows.Forms.MessageBox.Show("Appointment item");
+            //Not in use currently.
+            //if (inspector != null && inspector.CurrentItem != null)
+            //{
+            //    Outlook.AppointmentItem apt = inspector.CurrentItem as Outlook.AppointmentItem;
+            //    if (apt != null)
+            //        System.Windows.Forms.MessageBox.Show("Appointment item");
 
-                Outlook.MailItem mail = inspector.CurrentItem as Outlook.MailItem;
-                if (mail != null)
-                    System.Windows.Forms.MessageBox.Show("Mail item");
-            }
+            //    Outlook.MailItem mail = inspector.CurrentItem as Outlook.MailItem;
+            //    if (mail != null)
+            //        System.Windows.Forms.MessageBox.Show("Mail item");
+            //}
 
 
             return true;
@@ -118,6 +119,9 @@ namespace GetActiveInspectorSample
 
         public void BtnShowPressed(object control, bool bPressed)
         {
+            WinFormWithWebViewUC form = new WinFormWithWebViewUC();
+            form.Visible = true;
+            form.Show();
             //var outlook = GetActiveInspector();
 
             int x = 1;

@@ -34,8 +34,8 @@ namespace GetActiveInspectorSample
             Item = (Outlook.MailItem)Inspector.CurrentItem;
 
             // Register Item events.
-            Item.Open += new Outlook.ItemEvents_10_OpenEventHandler(Item_Open);
-            Item.Write += new Outlook.ItemEvents_10_WriteEventHandler(Item_Write);
+            //Item.Open += new Outlook.ItemEvents_10_OpenEventHandler(Item_Open);
+            //Item.Write += new Outlook.ItemEvents_10_WriteEventHandler(Item_Write);
         }
 
         // This method is called when the item is visible and the UI is initialized.
